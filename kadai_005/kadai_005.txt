@@ -1,0 +1,2 @@
+38f8c3c 日本語訳を追記
+2b66cd8 hello_world.txt を追加
